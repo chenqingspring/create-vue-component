@@ -33,6 +33,10 @@ Publish npm package
 npm run release
 ```
 
+## Contribution
+
+Your contributions and suggestions are heartily welcome.
+
 ## License
 
 MIT
